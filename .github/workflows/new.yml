@@ -57,4 +57,4 @@ jobs:
 
     - name: Run verification script 
 
-      run: pytest POM\tests\test_factorial_parameterized
+      run: pytest POM/tests/test_factorial_parameterized
