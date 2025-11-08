@@ -42,10 +42,7 @@ jobs:
 
         pip install --upgrade pip 
 
-        pip install selenium webdriver-manager 
-	
-	pip install pytest
-
+        pip install selenium webdriver-manager pytest
          
 
     - name: Install Chrome 
